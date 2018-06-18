@@ -1,73 +1,106 @@
 [{
     "id": 1,
-    "name": "1",
+    "name": "one",
+    "clicked": 0 ,
     "image":
       "images/h.png"    
   },
   {
     "id": 2,
-    "name": "2",
+    "name": "two",
+    "clicked": 0 ,
     "image":
       "./images/2.jpg"    
   },
   {
     "id": 3,
-    "name": "3",
+    "name": "three",
+    "clicked": 0 ,
     "image":
       "./images/3.jpg"    
   },
   {
     "id": 4,
-    "name": "4",
+    "name": "four",
+    "clicked": 0 ,
     "image":
       "./images/4.jpg"    
   },
   {
     "id": 5,
-    "name": "5",
+    "name": "five",
+    "clicked": 0 ,
     "image":
       "./images/5.jpg"    
   },
   {
     "id": 6,
-    "name": "6",
+    "name": "six",
+    "clicked": 0 ,
     "image":
       "./images/6.jpg"    
   }, 
   {
     "id": 7,
-    "name": "7",
+    "name": "seven",
+    "clicked": 0 ,
     "image":
       "./images/7.jpg"    
   },
   {
     "id": 8,
-    "name": "8",
+    "name": "eight",
+    "clicked": 0 ,
     "image":
       "./images/8.jpg"    
   },
   {
     "id": 9,
-    "name": "9",
+    "name": "nine",
+    "clicked": 0 ,
     "image":
       "./images/9.jpg"    
   },
   {
     "id": 10,
-    "name": "10",
+    "name": "ten",
+    "clicked": 0 ,
     "image":
       "./images/10.jpg"    
   },
   {
     "id": 11,
-    "name": "11",
+    "name": "eleven",
+    "clicked": 0 ,
     "image":
       "./images/11.jpg"    
   },
   {
     "id": 12,
-    "name": "12",
+    "name": "twelve",
+    "clicked": 0 ,
     "image":
       "./images/12.jpg"    
+  },
+  {
+    "id": 13,
+    "name": "thirteen",
+    "clicked": 0 ,
+    "image":
+      "./images/13.jpg"    
+  },
+  {
+    "id": 14,
+    "name": "fourteen",
+    "clicked": 0 ,
+    "image":
+      "./images/14.jpg"    
+  },
+  {
+    "id": 15,
+    "name": "fifteen",
+    "clicked": 0 ,
+    "image":
+      "./images/1.jpg"    
   }
 ]
