@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import Card from "./components/card";
 import Wrapper from "./components/Wrapper";
 import images from "./images.json";
@@ -34,7 +34,7 @@ class App extends Component {
      const  findImg = this.state.unselectedFlow.find(item => item.name === name);
        console.log(findImg);
 
-    if(findImg == undefined) {
+    if(findImg === undefined) {
        console.log("Hi")
         // failure to select a new Img
         this.setState({ 
